@@ -1,6 +1,14 @@
 # flappy-bird-with-python
-for education propose not for production.
+A flappy bird made using python and pygame. 
+<hr/>
 
-do 
+# To setup in your local computer run this in your local terminal.
+* *Make sure you have python3 installed in your local system
+* git clone https://github.com/shaishguni/flappy-bird-with-python/
+* pip install pygame
+* cd flappy
+* python3 main.py
 
- pip install pygame
+<hr/>
+
+Enjoy with your friends.
