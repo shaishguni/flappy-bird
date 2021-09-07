@@ -1,6 +1,5 @@
 # flappy-bird-with-python
 A flappy bird made using python and pygame. 
-<hr/>
 
 # To setup in your local computer run this in your local terminal.
 * *Make sure you have python3 installed in your local system
