@@ -1,8 +1,9 @@
 # flappy-bird-with-python
 A flappy bird made using python and pygame. 
+Make sure you have python3 installed in your local system
 ## For running it 
 ```bash
-Make sure you have python3 installed in your local system
+
 git clone https://github.com/shaishguni/flappy-bird-with-python/
 virtualenv venv && source venv/bin/activate
 pip install pygame
